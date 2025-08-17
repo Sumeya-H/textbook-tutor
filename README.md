@@ -14,6 +14,12 @@ AI Tutor is a Streamlit web application that allows students and educators to up
 
 ---
 
+## Live Demo
+
+Access the app here: [https://textbook-tutor.onrender.com](https://textbook-tutor.onrender.com)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -118,4 +124,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, open an issue or contact lesumeya3@gmail.com
+For questions or support, open an issue or contact [Sumeya: lesumeya3@gmail.com](lesumeya3@gmail.com)
